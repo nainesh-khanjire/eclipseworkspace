@@ -9,9 +9,9 @@ public class TryCatch1 {
 		}
 
 		// handling the above exception
-		catch (ArithmeticException e) {
+		catch (ArrayIndexOutOfBoundsException e) {
 
-			System.out.println(e);
+			System.out.println("print error: " + e); // this will not print
 		}
 
 		System.out.println("print rest of the code");

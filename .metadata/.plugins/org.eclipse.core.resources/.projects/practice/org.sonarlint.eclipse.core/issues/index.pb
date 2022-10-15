@@ -21,3 +21,13 @@ G
 src/practice/Human.java,d\f\dfec3197dee898480e95a597dda4f2ff833cd10a
 K
 src/practice/HumanMain.java,1\c\1cedda0106217aa11c673ae751bca4960ee8589e
+K
+src/practice/TryCatch3.java,8\d\8db76f16d592f52398790904b56c4afca4bf7a99
+K
+src/practice/TryCatch2.java,1\7\17f37dabf28f949a79218eb25e6b4e57b97b1c55
+K
+src/practice/TryCatch4.java,c\1\c1a94e5ee65006d11f27d7cbaa29f21ea6b7b775
+K
+src/practice/TryCatch5.java,4\2\426bf7fc1a20d24df5e230caf9cb12db69ad53c6
+K
+src/practice/TryCatch1.java,4\1\411018d943c0c54c94877a060413ff159945108b

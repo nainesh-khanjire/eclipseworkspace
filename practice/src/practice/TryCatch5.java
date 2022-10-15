@@ -13,13 +13,10 @@ public class TryCatch5 {
 
 		catch (Exception e) {
 
-			System.out.println("displaying error " + e);
-			int c1 = a / b;
+	System.out.println("displaying error1: " + e);
 
-		}
+//			int c1 = a / b;
 
-		catch (Exception d) {
-			System.out.println("displaying error: " + d);
 		}
 
 		System.out.println("prints rest of the code");
