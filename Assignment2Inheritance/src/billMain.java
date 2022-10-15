@@ -6,7 +6,7 @@ public class billMain {
 		/*
 		 * Create a class Electricity bill with data members as customer number,
 		 * customer name, units consumed and methods as follows:
-		 * 
+	 	 * 
 		 * 
 		 * 1. readData() - to read the values of data members. 2. showData - to display
 		 * the customer details 3. computeBill() - to calculate and return electricity
