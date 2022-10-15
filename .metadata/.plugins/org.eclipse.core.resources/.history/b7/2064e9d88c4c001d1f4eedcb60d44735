@@ -1,15 +1,10 @@
 package practice;
 
-public class Employment {
+public class Git2 {
 
-	
 	public static void main(String[] args) {
-		
-		
-		Employment e1;
-		
-		
-		
-		
+		// TODO Auto-generated method stub
+
 	}
+
 }

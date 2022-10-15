@@ -15,8 +15,6 @@ I
 src/practice/Wrapper.java,e\7\e7d33ed5351ce53b51e576773b448fc54af2302c
 H
 src/practice/Constr.java,0\d\0d5af8d3c6d3830f6a6f6227d06c01651dad8354
-J
-src/practice2/Message.java,7\9\7941a3becf6cb0229294d642b73c00affcda5777
 K
 src/practice/Greetings.java,4\1\414db24e47e9a07898acd48c7cd7c55bc5219b5a
 G
