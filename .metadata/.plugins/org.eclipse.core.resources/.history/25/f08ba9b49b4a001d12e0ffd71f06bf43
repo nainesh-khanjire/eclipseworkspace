@@ -1,0 +1,12 @@
+
+public class Teacher extends Person {
+
+	
+	void myprofession() {
+		System.out.println("My profession is Teaching");
+		
+		
+		
+	}
+	
+}

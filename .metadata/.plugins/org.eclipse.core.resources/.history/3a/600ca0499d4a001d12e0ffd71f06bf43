@@ -1,0 +1,26 @@
+
+public class PersonMain {
+
+	public static void main(String[] args) {
+
+		Employee e = new Employee();
+		e.read();
+		e.myprofession();
+
+		Teacher t = new Teacher();
+		t.read();
+		t.myprofession();
+		
+
+		PermanentEmp p = new PermanentEmp();
+		p.read();
+		p.myprofession();
+		
+
+		ContractEmp c = new ContractEmp();
+		c.read();
+		c.myprofession();
+
+	}
+
+}

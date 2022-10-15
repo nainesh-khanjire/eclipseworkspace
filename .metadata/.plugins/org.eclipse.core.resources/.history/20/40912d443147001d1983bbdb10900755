@@ -1,0 +1,27 @@
+package practice;
+
+public class DefaultConstr {
+
+	
+	int id;
+	int age;
+	float salary;
+	String dept;
+	
+	
+	public static void main(String[] args) {
+		
+		DefaultConstr d1 = new DefaultConstr();
+			// object will get allocated with default values 
+		
+		
+		
+		d1.disp();
+		
+		
+		
+		
+		
+	}
+
+}

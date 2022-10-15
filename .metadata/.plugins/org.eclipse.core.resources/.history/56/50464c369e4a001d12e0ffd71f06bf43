@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+	void disp() {
+			
+			System.out.println("My name is "+name);
+		}
+		
+}
+

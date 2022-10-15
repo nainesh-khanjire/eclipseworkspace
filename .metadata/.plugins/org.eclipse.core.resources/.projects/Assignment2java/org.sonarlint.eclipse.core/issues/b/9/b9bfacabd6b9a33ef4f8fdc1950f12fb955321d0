@@ -1,0 +1,13 @@
+
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓéË8ÄÁÁº0H©RMINORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÛıÿùÿÿÿÿ8ÄÁÁº0HªRMINORZ
+CODE_SMELL
+€squid:S39732"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8„×ÚÂº0H¨RCRITICALZ
+CODE_SMELL
+ƒsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…–Í8ÄÁÁº0H¬RMINORZ
+CODE_SMELL
+‹squid:S1192,"TDefine a constant instead of duplicating this literal "your total bill is " 3 times.(Œ²ˆ›8³ÒßÂº0H«RCRITICALZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H­RMINORZ
+CODE_SMELL

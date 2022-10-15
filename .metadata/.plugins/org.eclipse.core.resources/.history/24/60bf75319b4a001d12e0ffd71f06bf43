@@ -1,0 +1,12 @@
+n
+public class Teacher extends Person {
+
+	
+	void myprofession() {
+		
+		
+		
+		
+	}
+	
+}

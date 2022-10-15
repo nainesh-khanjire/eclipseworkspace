@@ -1,0 +1,7 @@
+
+public class SalariedEmp extends Emp {
+
+	int salary;
+	
+	
+}

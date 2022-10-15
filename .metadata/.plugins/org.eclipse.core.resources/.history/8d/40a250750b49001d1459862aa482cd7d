@@ -1,0 +1,33 @@
+
+class HourlyEmployee extends Employee {
+
+	
+	double totalsal;
+
+	void computeGrossPay() {
+		
+		int salaryperhr;
+		int workhours ;
+		totalsal = workhours * salaryperhr;
+  
+	}
+
+	void computeNetPay() {
+		double tax = 0.05D;
+		totalsal = totalsal - (totalsal * tax);
+
+	}
+
+	public double setSalary(int sal) {
+		this.totalsal = 15000;
+	}
+
+	public double getSalary() {
+		return totalsal = sal;
+	}
+
+	void print() {
+		System.out.println(totalsal);
+	}
+
+}

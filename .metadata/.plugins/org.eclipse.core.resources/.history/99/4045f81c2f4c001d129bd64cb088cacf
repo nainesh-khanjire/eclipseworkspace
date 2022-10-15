@@ -1,0 +1,26 @@
+package practice;
+
+public class Constr {
+
+	public static void main(String[] args) {
+		System.out.println("");
+
+		student s = new student();
+
+	}
+
+	void print() {
+
+	}
+}
+
+class student {
+	student() {
+
+	}
+
+	void student() {
+
+	}
+
+}

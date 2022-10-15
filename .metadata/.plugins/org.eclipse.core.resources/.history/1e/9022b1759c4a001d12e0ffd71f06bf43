@@ -1,0 +1,8 @@
+
+public class PermanentEmp extends Employee {
+
+	void myprofession() {
+		System.out.println("I am a permanent employee");
+
+	}
+}

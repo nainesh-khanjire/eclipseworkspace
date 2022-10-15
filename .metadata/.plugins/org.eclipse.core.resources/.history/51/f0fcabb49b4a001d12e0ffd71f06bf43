@@ -1,0 +1,10 @@
+
+public class PermanentEmp {
+
+	
+	void myprofession() {
+		System.out.println("I am a permanent employee");
+		
+		
+	}
+}

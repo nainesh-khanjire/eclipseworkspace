@@ -1,0 +1,22 @@
+
+package practice;
+
+import java.util.Scanner;
+
+public class Scanner {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int a;
+		float b;
+		double c;
+		a = sc.nextInt();
+		b = sc.nextFloat();
+		c = sc.nextDouble();
+
+		System.out.println("a=" + a);
+		System.out.println("b=" + b);
+
+	}
+
+}

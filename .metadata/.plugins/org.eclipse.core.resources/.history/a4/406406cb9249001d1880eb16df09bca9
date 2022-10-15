@@ -1,0 +1,24 @@
+
+public class Employee {
+
+
+	int empno;
+	String empname;
+	String dept;
+	double salary;
+	
+	
+	
+	
+	
+}
+
+public void readData() extends Employee{
+	
+	
+}
+
+class DisplayData extends Employee{
+	
+	
+}

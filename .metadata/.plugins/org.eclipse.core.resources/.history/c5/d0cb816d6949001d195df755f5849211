@@ -1,0 +1,22 @@
+
+public class BankAc {
+
+	
+int accountnumber;
+double totalbalance;
+
+	void deposit() {
+		
+	}
+	void withdraw() {
+		
+		
+	}
+	void getBalance() {
+		
+		
+	}
+	
+
+}
+

@@ -1,0 +1,13 @@
+
+public class SavingAc extends BankAc {
+
+	
+double interestrate;
+
+
+void addInterest() {
+	
+	getBalance();
+}
+
+}

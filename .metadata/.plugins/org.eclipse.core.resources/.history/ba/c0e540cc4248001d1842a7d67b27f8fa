@@ -1,0 +1,28 @@
+
+public class HourlyEmployee {
+
+
+	int salary;
+
+	void HourlyEmployee() {
+		
+		
+	}
+
+	void computeGrossPay() {
+
+	}
+
+	void computeNtePay() {
+
+	}
+
+	void getSalary(){
+		
+	}
+	
+	void setSalary(){
+		
+			
+}
+}

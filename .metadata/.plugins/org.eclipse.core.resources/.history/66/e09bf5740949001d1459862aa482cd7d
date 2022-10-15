@@ -1,0 +1,35 @@
+
+class HourlyEmployee extends Employee {
+
+
+	int salaryperhour, workhours;
+	
+
+
+
+
+	void computeGrossPay() {
+
+	}
+
+	void computeNetPay() {
+
+	}
+
+	public void setSalary(int sal) {
+		this.salary =  15000;
+	}
+	
+	public int getSalary() {
+		return salary =sal;
+	}
+
+	
+
+	void print() {
+		System.out.println(salary);
+			}
+
+			
+}
+

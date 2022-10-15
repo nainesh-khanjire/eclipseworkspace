@@ -1,0 +1,13 @@
+
+zsquid:S2184"HCast one of the operands of this multiplication operation to a "double".(ô¦˜¶üÿÿÿÿ8ÅÙÄ¦¼0HÍRMINORZBUG
+squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ÇÌà8›®í¦¼0HíRMAJORZ
+CODE_SMELL
+nsquid:S1161)":Add the "@Override" annotation above this method signature(è§©¯8ˆ«Þÿ»0H·RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õ‡ƒ¿üÿÿÿÿ8›®í¦¼0HìRMAJORZ
+CODE_SMELL
+fsquid:S1172!"-Remove this unused method parameter "salary".(±šÈ¸øÿÿÿÿ8•÷ý¦¼0H€RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H³RMINORZ
+CODE_SMELL

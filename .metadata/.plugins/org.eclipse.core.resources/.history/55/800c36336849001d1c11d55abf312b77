@@ -1,0 +1,18 @@
+
+public class BankAcMain {
+
+	public static void main(String[] args) {
+		// Write java program to implement polymorphism with following example
+
+		
+	SavingAc s = new SavingAc();
+	
+	
+	CheckingAc c = new CheckingAc();
+	
+		
+		
+		
+	}
+
+}

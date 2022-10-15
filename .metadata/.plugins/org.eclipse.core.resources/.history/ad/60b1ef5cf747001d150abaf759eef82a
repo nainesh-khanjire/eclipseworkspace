@@ -1,0 +1,26 @@
+
+public class BankAccount {
+
+	public static void main(String[] args) {
+
+		CheckingAcc c = new CheckingAcc();
+		c.getBalance();
+		c.deposit();
+		c.withdraw();
+		c.deductFee();
+		
+		
+
+		SavingAcc s = new SavingAcc();
+		s.getBalance();
+		s.deposit();
+		s.withdraw();
+		s.addInterest();
+		
+		
+
+	}
+	
+	
+	
+}

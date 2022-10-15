@@ -1,0 +1,26 @@
+
+
+	class SalariedEmployee extends Employee
+	{
+	int salary;
+
+		SalariedEmployee() {
+			
+			
+		}
+
+		void computeGrossPay() {
+
+		}
+
+		void computeNtePay() {
+
+		}
+
+			
+				
+	}
+
+	
+	
+

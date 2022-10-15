@@ -1,0 +1,10 @@
+package practice;
+
+public class Student {
+
+	public static void main(String[] args) {
+		final int A =1; // final variale is always uppercase
+ 
+	}
+
+}

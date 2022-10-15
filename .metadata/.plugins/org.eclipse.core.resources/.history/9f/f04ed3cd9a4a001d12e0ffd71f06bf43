@@ -1,0 +1,14 @@
+
+public class PersonMain {
+
+	public static void main(String[] args) {
+		
+		
+		Employee e = new Employee();
+		Teacher t = new Teacher();
+		PermanentEmp p = new PermanentEmp();
+		ContractEmp c = new ContractEmp();
+
+	}
+
+}

@@ -1,0 +1,19 @@
+
+public class EmployeeMain {
+
+	public static void main(String[] args) {
+		// Employee ,salaried, hourly
+
+		
+		SalariedEmployee s = new SalariedEmployee();
+		s.Employee();
+	s.print();
+	s.getSSN();
+	s.setSSN();
+	
+		HourlyEmployee s = new HourlyEmployee();
+		
+		
+	}
+
+}

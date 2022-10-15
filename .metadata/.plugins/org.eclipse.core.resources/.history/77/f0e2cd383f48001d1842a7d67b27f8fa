@@ -1,0 +1,11 @@
+
+public class Employee {
+
+	int ssn;
+	String firstname;
+	String lastname;
+	
+	
+	
+	
+}

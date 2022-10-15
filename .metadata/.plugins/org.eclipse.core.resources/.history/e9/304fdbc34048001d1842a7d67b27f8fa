@@ -1,0 +1,47 @@
+
+public class Employee {
+
+	int SSN;
+	String firstname;
+	String lastname;
+
+	void Employee() {
+
+	}
+
+	void getSSN() {
+
+	}
+
+	void setSSN() {
+
+	}
+
+	void getFirstName() {
+
+	}
+
+	void setFirstName() {
+
+	}
+
+	void getLastName() {
+
+	}
+
+	void setLastName() {
+
+	}
+
+}
+
+class SalariedEmployee()
+{
+
+	}
+
+class HourlyEmployee()
+{
+	
+	
+}

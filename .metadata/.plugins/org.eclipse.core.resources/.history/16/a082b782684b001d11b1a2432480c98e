@@ -1,0 +1,26 @@
+package practice;
+
+public class Wrapper {
+
+	public static void main(String[] args) {
+		int i = 3;
+		Integer I = 45;
+		
+		
+		Integer a = 4;
+		Integer b = 5;
+		
+		swap(a, b);
+		System.out.println("a=" + a + " b=" + b); // this will not swap, java is pass by value
+
+	}
+
+	static void swap(Integer a, Integer b) {
+
+		int temp = a;
+		a = b;
+		b = temp;
+
+	}
+
+}

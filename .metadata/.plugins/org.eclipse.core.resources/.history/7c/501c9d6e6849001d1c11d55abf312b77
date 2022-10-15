@@ -1,0 +1,14 @@
+
+public class BankAc {
+
+	
+int accountnumber;
+double totalbalance;
+
+	deposit();
+	withdraw();
+	getBalance();
+	
+
+}
+

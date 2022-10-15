@@ -1,0 +1,28 @@
+
+public class HourlyEmp extends Emp{
+
+	int salary;
+	
+	
+	HourlyEmp(){
+		
+		
+	}
+	void computegrosspay() {
+		
+		
+	}
+
+	void computetnetpay() {
+		
+		
+	}
+	public int getSalary() {
+		return salary;
+	}
+	public void setSalary(int salary) {
+		this.salary = salary;
+	}
+
+
+}

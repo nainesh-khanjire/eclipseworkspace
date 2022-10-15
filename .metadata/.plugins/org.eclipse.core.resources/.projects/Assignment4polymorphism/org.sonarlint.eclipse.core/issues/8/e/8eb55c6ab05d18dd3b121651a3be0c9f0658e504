@@ -1,0 +1,9 @@
+
+tsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8‚àù¼0HRMINORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(è§©¯8‚àù¼0HRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HŸRMINORZ
+CODE_SMELL
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õº‹¹ûÿÿÿÿ8»ŞÁù¼0H RCRITICALZ
+CODE_SMELL

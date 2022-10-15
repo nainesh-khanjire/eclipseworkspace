@@ -1,0 +1,23 @@
+package practice;
+
+public class Wrapper {
+
+	public static void main(String[] args) {
+		int i = 3;
+		Integer I = 45;
+		int a = 4;
+		int b = 5;
+swap(a,b);
+System.out.println( "a="+a+" b="+b);
+		
+	}
+
+	static void swap(int a, int b) {
+
+		int temp = a;
+		a = b;
+		b = temp;
+
+	}
+
+}

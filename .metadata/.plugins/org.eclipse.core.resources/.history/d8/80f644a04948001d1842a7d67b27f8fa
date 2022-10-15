@@ -1,0 +1,24 @@
+
+
+public class EmployeeMain {
+
+	public static void main(String[] args) {
+		// Employee ,salaried, hourly
+
+		SalariedEmployee s = new SalariedEmployee();
+
+		s.computeGrossPay();
+		s.computeGrossPay();
+		s.getSalary();
+		s.setSalary();
+
+		HourlyEmployee h = new HourlyEmployee();
+
+		h.computeGrossPay();
+		h.ComputeNetPay();
+		h.getSalary();
+		h.setSalary();
+
+	}
+
+}

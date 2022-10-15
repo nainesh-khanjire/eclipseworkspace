@@ -1,0 +1,26 @@
+
+public class Employee {
+
+	int SSN;
+	String firstname;
+	String lastname;
+	
+	class Employee()
+	{
+		
+	}
+	
+	
+	
+	
+	
+}
+class SalariedEmployee(){
+	
+}
+
+
+class HourlyEmployee(){
+	
+	
+}

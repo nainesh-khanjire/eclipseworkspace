@@ -1,0 +1,8 @@
+
+public class ContractEmp extends Employee {
+	void myprofession() {
+
+		System.out.println("I am a contract employee");
+	}
+
+}

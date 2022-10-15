@@ -1,0 +1,12 @@
+package practice;
+import static packages.practice.Message.message;
+
+public class Greetings {
+
+	public static void main(String[] args) {
+		System.out.println("greetings");
+
+		message();
+	}
+
+}

@@ -1,0 +1,32 @@
+
+class HourlyEmployee extends Employee {
+
+
+	int salary;
+	
+
+	HourlyEmployee() {
+		
+		this.salary=0;
+	}
+
+	void computeGrossPay() {
+
+	}
+
+	void computeNetPay() {
+
+	}
+
+	public int getSalary(int sal) {
+		return salary =sal;
+	}
+
+	public void setSalary(int sal) {
+		this.salary =  sal;
+	}
+
+		
+			
+}
+}

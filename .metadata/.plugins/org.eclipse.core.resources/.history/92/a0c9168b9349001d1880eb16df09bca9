@@ -1,0 +1,12 @@
+
+public class Employee {
+
+
+	int empno;
+	String empname;
+	String dept;
+	double salary;
+	
+}
+
+

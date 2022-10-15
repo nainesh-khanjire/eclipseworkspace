@@ -1,0 +1,12 @@
+
+public class CheckingAc extends BankAc {
+
+	
+	int fee;
+	void deductFee() {
+		
+		getBalance();
+		
+	}
+	
+}

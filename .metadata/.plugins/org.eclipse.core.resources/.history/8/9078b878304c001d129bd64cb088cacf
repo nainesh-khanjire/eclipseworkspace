@@ -1,0 +1,33 @@
+package practice;
+
+public class Constr {
+
+	public static void main(String[] args) {
+		System.out.println("");
+
+		student s = new student();
+		s.student();
+	}
+
+}
+
+class student {
+	int id = 1;
+	String name = "nainesh";
+
+	student() { // default constructor
+print();
+	}
+
+	public void student(int id, String name) { // user defined constructor
+		this.id = id;
+		this.name = name;
+print();
+	}
+
+	void print() {
+		System.out.println("my id is: " + id + " and name is: " + name);
+
+	}
+
+}

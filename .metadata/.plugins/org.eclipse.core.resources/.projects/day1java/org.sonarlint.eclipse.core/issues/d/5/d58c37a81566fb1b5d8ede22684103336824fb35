@@ -1,0 +1,21 @@
+
+ƒsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ìñ8ŒÜåÃº0HÉRMINORZ
+CODE_SMELL
+€squid:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8÷­îÆ¹0HÊRCRITICALZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûª˜•ûÿÿÿÿ8÷­îÆ¹0HËRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬8›Ù‰º0HÌRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8›Ù‰º0HÍRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ»¾µûÿÿÿÿ8›Ù‰º0HÎRMAJORZ
+CODE_SMELL
+†squid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ìñ8ŒÜåÃº0HÏRMINORZ
+CODE_SMELL
+‹squid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…íëüÿÿÿÿ8ÜÖˆº0HĞRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Èé¡ÿúÿÿÿÿ8›Ù‰º0HÑRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÄÿùüÿÿÿÿHÒRMINORZ
+CODE_SMELL

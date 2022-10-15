@@ -1,0 +1,21 @@
+
+public class EmployeeMain {
+
+	public static void main(String[] args) {
+		// Employee ,salaried, hourly
+
+		SalariedEmployee s = new SalariedEmployee();
+		s.Employee();
+		s.print();
+		s.getSSN();
+		s.setSSN();
+		s.getFirstname();
+		s.setFirstname();
+		s.getLastname();
+		s.setLastname();
+
+		HourlyEmployee s = new HourlyEmployee();
+
+	}
+
+}

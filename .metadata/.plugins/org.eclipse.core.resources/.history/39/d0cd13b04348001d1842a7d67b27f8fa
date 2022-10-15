@@ -1,0 +1,34 @@
+
+
+	class SalariedEmployee extends Employee
+	{
+	int salary;
+
+		SalariedEmployee() {
+			
+			
+		}
+
+		void computeGrossPay() {
+
+		}
+
+		void computeNtePay() {
+
+		}
+
+		public int getSalary() {
+			return salary;
+		}
+
+		public void setSalary(int salary) {
+			this.salary = salary;
+		}
+
+			
+				
+	}
+
+	
+	
+

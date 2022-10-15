@@ -1,0 +1,11 @@
+package practice2;
+
+public class Message {
+
+	
+public static void mssage(String[] args) {
+	
+	
+	System.out.println("This is package 2 message");
+}
+}
