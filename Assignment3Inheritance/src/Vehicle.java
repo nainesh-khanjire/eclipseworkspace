@@ -3,19 +3,28 @@ public class Vehicle {
 
 	int wheels;
 	String color;
-	String fuel; 
+	String fuel;
 	double speed;
-				// this is SUPER CLASS/PARENT CLASS
+
+	public Vehicle(int wheels, String color, String fuel, double speed) {
+		super();
+		this.wheels = wheels;
+		this.color = color;
+		this.fuel = fuel;
+		this.speed = speed;
+	}
+
+	// this is SUPER CLASS/PARENT CLASS
 	void start() {
-System.out.println("this vehicle started moving");
+		System.out.println("this vehicle started moving");
 	}
 
 	void accelerate() {
-System.out.println("this vehicle is in high speed");
+		System.out.println("this vehicle is in high speed");
 	}
 
 	void brake() {
-System.out.println("this vehicle is stopped");
+		System.out.println("this vehicle is stopped");
 	}
 
 	public int getWheels() {
@@ -48,28 +57,6 @@ System.out.println("this vehicle is stopped");
 
 	public void setSpeed(double speed) {
 		this.speed = speed;
-	}
-
-	public static void main(String[] args) {
-
-		Van v = new Van();
-		v.loadVan();
-
-		Truck t = new Truck();
-		t.loadContainer();
-
-		Car c = new Car();
-		c.start();
-		System.out.println(c.speed);
-		
-		Bike b = new Bike();
-		b.seats = 2;
-		b.saddleheight = 1;
-		b.start();
-		System.out.println(b.speed);
-		
-		System.out.println("");
-
 	}
 
 }
