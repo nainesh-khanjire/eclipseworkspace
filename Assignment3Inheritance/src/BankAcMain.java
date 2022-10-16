@@ -2,10 +2,10 @@
 public class BankAcMain {
 
 	public static void main(String[] args) {
-		// Write java program to implement polymorphism with following example
+		// Write java program to implement INHERITANCE with following example
 
 		SavingAc s = new SavingAc();
-        
+
 		s.deposit();
 		s.withdraw();
 		s.addInterest();

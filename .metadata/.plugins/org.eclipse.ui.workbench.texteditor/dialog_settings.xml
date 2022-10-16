@@ -7,6 +7,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="package practice;"/>
 			<item value="import java.util.Scanner;"/>
 		</list>
 		<list key="replacehistory">

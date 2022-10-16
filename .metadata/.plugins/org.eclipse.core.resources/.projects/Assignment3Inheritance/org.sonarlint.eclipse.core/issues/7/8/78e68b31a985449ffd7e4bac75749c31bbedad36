@@ -1,15 +1,15 @@
 
-nsquid:S1161#":Add the "@Override" annotation above this method signature(Ëß©Ø8è–◊ˇª0HÀRMAJORZ
+Gsquid:S1220""Move this file to a named package.HﬂRMINORZ
 CODE_SMELL
-Ñsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(∑Â±Ò¯ˇˇˇˇ8ôä¯¶º0HÃRMAJORZ
+squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(µèâﬁ8ôä¯¶º0HÂRMAJORZ
 CODE_SMELL
-Gsquid:S1220""Move this file to a named package.HÕRMINORZ
+fsquid:S1172"-Remove this unused method parameter "salary".(±ö»∏¯ˇˇˇˇ8⁄¿˝¶º0H‰RMAJORZ
 CODE_SMELL
-Ωsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á†‹Æˇˇˇˇˇ8˛‘Ê˝ª0HŒRCRITICALZ
+nsquid:S1161#":Add the "@Override" annotation above this method signature(Ëß©Ø8è–◊ˇª0H‡RMAJORZ
 CODE_SMELL
-∑squid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¬ÏU8˛‘Ê˝ª0HœRCRITICALZ
+Ñsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(∑Â±Ò¯ˇˇˇˇ8ôä¯¶º0H·RMAJORZ
 CODE_SMELL
-squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(µèâﬁ8ôä¯¶º0H–RMAJORZ
+Ωsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á†‹Æˇˇˇˇˇ8˛‘Ê˝ª0H„RCRITICALZ
 CODE_SMELL
-fsquid:S1172"-Remove this unused method parameter "salary".(±ö»∏¯ˇˇˇˇ8⁄¿˝¶º0H—RMAJORZ
+∑squid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¬ÏU8˛‘Ê˝ª0H‚RCRITICALZ
 CODE_SMELL

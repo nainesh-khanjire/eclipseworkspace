@@ -1,7 +1,7 @@
 
-wsquid:S3973 "GUse indentation to denote the code conditionally executed by this "if".(­ƒ·ìH˜RCRITICALZ
+Gsquid:S1220""Move this file to a named package.HûRMINORZ
 CODE_SMELL
-Gsquid:S1220""Move this file to a named package.H™RMINORZ
+wsquid:S3973 "GUse indentation to denote the code conditionally executed by this "if".(­ƒ·ìHüRCRITICALZ
 CODE_SMELL
-xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø¡„áHšRMAJORZ
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø¡„áHýRMAJORZ
 CODE_SMELL

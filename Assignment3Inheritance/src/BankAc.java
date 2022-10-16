@@ -15,7 +15,6 @@ public class BankAc {
 		this.totalbalance = totalbalance;
 	}
 
-
 	void deposit() {
 		Scanner sc = new Scanner(System.in);
 
@@ -34,15 +33,15 @@ public class BankAc {
 
 	void withdraw() {
 		double amount;
-		
-Scanner sc = new Scanner(System.in);
+
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter amount to withdraw: ");
 		amount = sc.nextDouble();
-				
+
 		totalbalance = totalbalance - amount;
-		
+
 		System.out.println("Total balance after withdrawl has been updated");
-		
+
 		getBalance();
 
 	}

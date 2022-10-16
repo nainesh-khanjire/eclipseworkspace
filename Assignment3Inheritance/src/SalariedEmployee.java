@@ -3,10 +3,9 @@
 	class SalariedEmployee extends Employee
 	{
 	int salary;
-
-//		SalariedEmployee() {
-//			
-//			this.salary=0;
+		SalariedEmployee() {
+			
+			this.salary=0;
 			
 
 

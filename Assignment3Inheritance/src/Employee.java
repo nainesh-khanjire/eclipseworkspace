@@ -1,7 +1,7 @@
 
 public class Employee {
 
-	int SSN = 1001;
+	int SSN;
 	String firstname;
 	String lastname;
 
