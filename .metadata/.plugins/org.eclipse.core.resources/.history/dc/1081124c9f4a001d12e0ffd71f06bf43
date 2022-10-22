@@ -1,6 +1,0 @@
-
-public class HourlyEmp extends Emp{
-
-	int salary;
-	
-}

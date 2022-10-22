@@ -1,9 +1,0 @@
-
-public class Employee extends Person {
-
-	void myprofession() {
-
-		System.out.println("I work at credit suisse :/");
-	}
-
-}

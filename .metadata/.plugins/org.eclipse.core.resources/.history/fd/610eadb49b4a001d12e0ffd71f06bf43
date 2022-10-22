@@ -1,9 +1,0 @@
-
-public class ContractEmp {
-void myprofession() {
-	
-	
-	System.out.println("I am a contract employee");
-}
-	
-}
