@@ -37,3 +37,7 @@ J
 src/practice/FizzBuzz.java,b\3\b3f8fd3ce1af6afbb75b6546288fa1518b0e7532
 G
 src/practice/Table.java,3\0\30cf2d9a9d5114e0a0f38837d195d51744fcd8e3
+J
+src/practice/Triangle.java,a\0\a046e6cb1b1b35ee98e49991fe47c7a16ed481d7
+G
+src/practice/PtoNp.java,f\3\f35e6ed43a63686e939169a9cfe82777474950df
