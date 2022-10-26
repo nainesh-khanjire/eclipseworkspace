@@ -1,9 +1,9 @@
 
-‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÓ ¿ýÿÿÿÿ8¬â¶¢½0HÌ"RMINORZ
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÓ ¿ýÿÿÿÿ8¬â¶¢½0HÐ"RMINORZ
 CODE_SMELL
-_squid:S1481"&Remove this unused "i" local variable.(ðÀäÛûÿÿÿÿ8¬â¶¢½0HÍ"RMINORZ
+_squid:S1481"&Remove this unused "I" local variable.(áÓ ¿ýÿÿÿÿ8¬â¶¢½0HÑ"RMINORZ
 CODE_SMELL
-Zsquid:S1481"&Remove this unused "x" local variable.(Ü±õÕ8Ž¨ä¢½0HÎ"RMINORZ
+_squid:S1481"&Remove this unused "i" local variable.(ðÀäÛûÿÿÿÿ8¬â¶¢½0HÒ"RMINORZ
 CODE_SMELL
-_squid:S1481"&Remove this unused "I" local variable.(áÓ ¿ýÿÿÿÿ8¬â¶¢½0HÏ"RMINORZ
+Zsquid:S1481"&Remove this unused "x" local variable.(Ü±õÕ8Ž¨ä¢½0HÓ"RMINORZ
 CODE_SMELL
