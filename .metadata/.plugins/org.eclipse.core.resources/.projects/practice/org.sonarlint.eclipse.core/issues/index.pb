@@ -41,3 +41,11 @@ J
 src/practice/Triangle.java,a\0\a046e6cb1b1b35ee98e49991fe47c7a16ed481d7
 G
 src/practice/PtoNp.java,f\3\f35e6ed43a63686e939169a9cfe82777474950df
+M
+src/practice/StaticBlock.java,d\d\dd9558652e5d01c91167109700a523ab36fc3b42
+L
+src/practice/InnerClass.java,a\8\a887e1dc9ef192dbca48a32e8be96228b16a1a85
+F
+src/practice/Main.java,6\9\6973270dd30d07473e0a2b6bfbe008d20af2f713
+K
+src/practice/Singleton.java,6\4\6490658ea416fe9eb6b1b9560a8fb97b989d41e4
