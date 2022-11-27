@@ -13,6 +13,7 @@ public class Age {
 			for (int j = 0; j <=age[i].length - 1; j++) {
 				System.out.println("Enter the class " + i + " and student " + j);
 				age[i][j] = sc.nextInt(); 
+			
 			}
 		}
 		for(int i=0;i<=age.length-1;i++) {
