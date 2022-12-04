@@ -32,11 +32,10 @@ public class Arlist {
 		}
 
 		System.out.println("using for each loop");
-		
-		for(String names:arlist)
+
+		for (String names : arlist)
 			System.out.println(names);
-		
-		
+
 		
 		
 	}
