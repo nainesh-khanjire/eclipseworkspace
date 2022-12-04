@@ -1,12 +1,14 @@
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Scanner;
 
 public class File1 {
 
 	public static void main(String... args) {
 
-		// code to crate new file
+		/*// code to crate new file
 
 		File myFile = new File("D:file1.txt");
 		try {
@@ -30,7 +32,41 @@ public class File1 {
 			System.out.println("unable to write to the file");
 			e.printStackTrace();
 		}
+		
 
+		// Reading a file
+		
+		File myFileRead = new File("D:file1.txt");
+		
+		try {
+		Scanner sc = new Scanner(myFileRead);
+		while(sc.hasNextLine()) {
+			String line  =sc.nextLine();
+			System.out.println(line);
+		}
+			sc.close();
+		} catch (FileNotFoundException e) {
+			
+			System.out.println("unable to read the file");
+		}
+		
+		// Deleting a file 
+		
+		File myFile  = new File("D:file1.txt");
+			  
+		if (myFile.delete()) {
+			System.out.println("I have deleted the file: "+ myFile.getName());
+		}else {
+			System.out.println("unable to delete file: "+myFile.getName());
+		}
+	*/
+			
+		 
+		 }
+		 
+			
+		
+		
 	}
 
-}
+
