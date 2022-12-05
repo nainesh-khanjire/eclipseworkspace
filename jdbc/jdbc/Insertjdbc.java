@@ -1,34 +1,32 @@
+package jdbc;
+
 import java.sql.*;
 
-class jdbc1 {
-
+public class Insertjdbc {
 	public static void main(String... args) {
-
+		// create connection
 		try {
-
-			// load the driver
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
-			// create connection
-			String url = "jdbc:mysql://localhost:3306/j1";
+			String url = "jdbc:mysql://localhost:3306/javatest1";
 			String username = "root";
 			String password = "root";
+
 			Connection con = DriverManager.getConnection(url, username, password);
 
 			if (con.isClosed()) {
 
-				System.out.println("connection is still closed");
+				System.out.println("not connected");
 			} else {
-				System.out.println("connection created ");
 
+				System.out.println("connection successfull !");
 			}
-
+			// create query
+			
+			
 		} catch (Exception e) {
-
-			e.printStackTrace();
-
+			System.out.println("");
 		}
 
 	}
-
 }
